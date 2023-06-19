@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cypherson
 - 👀 I’m interested in becoming a full_stack engineer
-- 🌱 I’m currently learning front end development with ALX
-- 💞️ I’m looking to collaborate on front end projects
+- 🌱 I’m currently learning back-end development with ALX
+- 💞️ I’m looking to collaborate on back-end projects
 - 📫 you can drop a mail for me at a.aiyowie.hilary@gmail.com
