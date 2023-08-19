@@ -2,4 +2,5 @@
 - 👀 I’m interested in becoming a full_stack engineer
 - 🌱 I’m currently learning back-end development with ALX
 - 💞️ I’m looking to collaborate on back-end projects
-- 📫 you can drop a mail for me at a.aiyowie.hilary@gmail.com
+- 📫 you can drop a mail for me at cyphersconect@gmail.com
+- or you can drop a message for me here.
